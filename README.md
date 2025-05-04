@@ -35,8 +35,51 @@ _A front-end prototype for tracking medication adherence._
 - **Tech**: HTML, CSS, JavaScript  
 - **Features**: Interactive UI, local storage for data persistence, user-friendly design  
 - **Repo**: [github.com/NyatiJnr/MedTrack-App](https://github.com/NyatiJnr/MedTrack-App)  
-- **Note**: Demo available upon request; contact me to explore the project!
+- **Demo**: [Coming soon](#)
 
 #### 🩺 PatientSync Dashboard (In Progress)
-_A React
--->
+_A React-based dashboard for real-time patient diagnostics monitoring._  
+- **Tech**: React.js, Tailwind CSS, Chart.js  
+- **Features**: Dynamic data visualization, user authentication, responsive design  
+- **Repo**: [github.com/NyatiJnr/PatientSync-Dashboard](https://github.com/NyatiJnr/PatientSync-Dashboard)  
+- **Demo**: [Coming soon](#)
+
+---
+
+### 🏆 Achievements
+- 🎓 Completed **ALX Front-End Engineering** modules on JavaScript and React.js with distinction.
+- 🔬 Leveraged **Medical Laboratory Science** expertise to design user-centric health-tech prototypes.
+- 🌐 Built a personal portfolio showcasing health-tech projects: [sites.google.com/view/william-maina](https://sites.google.com/view/william-maina/home).
+
+---
+
+### 🤝 Contributions
+I’m actively exploring open-source health-tech projects to contribute my front-end skills. Recent activity:
+- 🐛 Fixed UI bugs in a personal health-tech prototype.
+- 📝 Documented setup instructions for [MedTrack App](https://github.com/NyatiJnr/MedTrack-App).
+- 🔍 Researching projects like [OpenMRS](https://github.com/openmrs) for future contributions.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NyatiJnr&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyatiJnr&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🌍 Let’s Connect!
+I’m excited to collaborate on health-tech projects and learn from the community. Reach out to discuss code, healthcare innovation, or opportunities!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/william-gaitungu-a099a660/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:willygait@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://sites.google.com/view/william-maina/home"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me" alt="Portfolio"/></a>
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Code is the bridge between ideas and impact. Let’s build solutions that save lives!"</i></p>
+</div>
